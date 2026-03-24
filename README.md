@@ -101,7 +101,7 @@ demonstrated via comment
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/om-shrivastava/oss-audit-24BSA10362.git
+git clone https://github.com/OmShrivastava19/oss-audit-24BSA10362.git
 cd oss-audit-24BSA10362
 ```
 
